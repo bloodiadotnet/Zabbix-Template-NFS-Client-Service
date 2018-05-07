@@ -20,6 +20,7 @@ Monitoring client side NFS mount points with Zabbix template.
 - 3.3
 - 3.4
 - 3.5
+- 3.6
 
 ### Python Modules
 - json
