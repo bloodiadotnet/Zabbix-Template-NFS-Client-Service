@@ -10,8 +10,9 @@ python:
   - 3.6
 install:
   - pip install argparse
+  - pip install coveralls
   - pip install codeclimate-test-reporter
 script:
-  - python lld-nfs.py
+  - coverage run lld-nfs.py
 after_success:
   - codeclimate-test-reporter
