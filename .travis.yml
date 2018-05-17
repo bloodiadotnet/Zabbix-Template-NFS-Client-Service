@@ -12,3 +12,5 @@ install:
   - pip install argparse
 script:
   - python lld-nfs.py
+after_sucess:
+  - CODECLIMATE_REPO_TOKEN=2371d90599b9408d01754ffac2d8ab0752fed22b9d7d0b1baa929adbaa6cb1e9 codeclimate-test-reporter
