@@ -1,8 +1,5 @@
 # Zabbix Template NFS Client Service
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-NFS-Client-Service/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/bloodia/Zabbix-Template-NFS-Client-Service.svg?branch=master)](https://travis-ci.org/bloodia/Zabbix-Template-NFS-Client-Service)
-[![Maintainability](https://api.codeclimate.com/v1/badges/bdd3c97a75e82f8218ab/maintainability)](https://codeclimate.com/github/bloodia/Zabbix-Template-NFS-Client-Service/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/bdd3c97a75e82f8218ab/test_coverage)](https://codeclimate.com/github/bloodia/Zabbix-Template-NFS-Client-Service/test_coverage)
 
 ## Overview
 Monitoring client side NFS mount points with Zabbix template.  
