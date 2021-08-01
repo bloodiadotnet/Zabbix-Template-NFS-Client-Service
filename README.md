@@ -1,5 +1,5 @@
 # Zabbix Template NFS Client Service
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-NFS-Client-Service/blob/master/LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodiadotnet/Zabbix-Template-NFS-Client-Service/blob/master/LICENSE)
 
 ## Overview
 Monitoring client side NFS mount points with Zabbix template.  
@@ -53,4 +53,4 @@ for example: /usr/local/bin/lld-nfs.py -t 'nfs' -n '/data'
 - Import the template file (xml) and assign it to the host monitored.
 
 ## Author
-[@bloodia](https://twitter.com/bloodiadotnet)
+[@bloodiadotnet](https://twitter.com/bloodiadotnet)
