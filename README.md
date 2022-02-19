@@ -22,7 +22,6 @@ Monitoring client side NFS mount points with Zabbix template.
 
 ### Python Modules
 - json
-- subprocess
 - re
 - argparse
 
