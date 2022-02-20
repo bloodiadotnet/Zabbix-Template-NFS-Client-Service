@@ -56,6 +56,6 @@ if __name__ == '__main__':
                                 data.append({"{#FSNAME}": fsname, "{#FSTYPE}": fstype})
                         else:
                             data.append({"{#FSNAME}": fsname, "{#FSTYPE}": fstype})
-                else:
-                    data.append({"{#FSNAME}": fsname, "{#FSTYPE}": fstype})
-        print(json.dumps({"data": data}, indent=4))
+            else:
+                 data.append({"{#FSNAME}": fsname, "{#FSTYPE}": fstype})
+     print(json.dumps({"data": data}, indent=4))
